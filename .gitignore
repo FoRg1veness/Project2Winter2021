@@ -2,3 +2,5 @@ proj2_nps_test.py
 project2_cache.json
 secrets.py
 site_cache.json
+.gitignore
+__pycache__
